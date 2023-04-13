@@ -1,0 +1,6 @@
+train: D:\\Desktop\\yolo\\train
+val: D:\\Desktop\\yolo\\val
+
+nc: 5
+
+names: ["cal","bell","glass","human","dog"]
